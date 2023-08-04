@@ -1,6 +1,6 @@
 # reading files
-f1 = open("C:/Users/user/Documents/intro.txt", "r") 
-f2 = open("C:/Users/user/Desktop/intro1.txt", "r") 
+f1 = open("/Users/sledge/Desktop/folder1.rtf", "r") 
+f2 = open("/Users/sledge/Desktop/folder2.rtf", "r") 
  
 f1_data = f1.readlines()
 f2_data = f2.readlines()
